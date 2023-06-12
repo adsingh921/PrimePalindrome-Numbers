@@ -1,6 +1,4 @@
-// Anmoldeep Sandhu
-// CST-105 : Project Programming 7
-// This file and project are my own work
+
 package programming7;
 
 public class PrimePalindrome {
